@@ -26,7 +26,7 @@ The difference will be calculated form ith index to ith+n index, i
 '''
 import numpy as np
 #x,y should be of same range
-def derivative(x,y,lim=10):
+def derivative(x,y,lim=5):
     
     if  ((len(x) != len(y))):
         raise("Length Mismatch")
