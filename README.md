@@ -1,4 +1,4 @@
-This project is about processing ECG (Electro Cargiogram) singnals. Since its not real time processing, the data for processing are obtained form physionet.org MIT-BIH. Information about each process is available in either notebook 
+This project is about processing ECG (Electro Cargiogram) signals. Since its not real time processing, the data for processing are obtained form physionet.org MIT-BIH. Information about each process is available in either notebook 
 or in .py code file.
 
 Following tasks are performed in this project:- 
